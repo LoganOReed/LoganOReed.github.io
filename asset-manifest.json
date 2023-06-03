@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.921b7de6.css",
-    "main.js": "/portfolio/static/js/main.a960daa6.js",
-    "static/js/821.9f65ab44.chunk.js": "/portfolio/static/js/821.9f65ab44.chunk.js",
-    "static/js/643.2b31f8d7.chunk.js": "/portfolio/static/js/643.2b31f8d7.chunk.js",
-    "static/js/27.4936b13c.chunk.js": "/portfolio/static/js/27.4936b13c.chunk.js",
-    "static/media/map.svg": "/portfolio/static/media/map.0d7639e83802dec1e213.svg",
-    "static/media/map-light.png": "/portfolio/static/media/map-light.279fba7babaf7b19a260.png",
-    "static/media/dots-bg.svg": "/portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
-    "static/media/dots-bg-light.svg": "/portfolio/static/media/dots-bg-light.337989bc13e6b95095a2.svg",
-    "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/best-app-development-tool.md": "/portfolio/static/media/best-app-development-tool.ad3bbdcbdc7fcfbfbab6.md",
-    "static/media/things-to-know-about-startup-business.md": "/portfolio/static/media/things-to-know-about-startup-business.3df71b0b7f432368182f.md",
-    "static/media/common-misconceptions-about-payment.md": "/portfolio/static/media/common-misconceptions-about-payment.e5b2c5dcae10956af81d.md",
-    "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/portfolio/index.html",
-    "main.921b7de6.css.map": "/portfolio/static/css/main.921b7de6.css.map",
-    "main.a960daa6.js.map": "/portfolio/static/js/main.a960daa6.js.map"
+    "main.css": "/loganreed.io/static/css/main.01863082.css",
+    "main.js": "/loganreed.io/static/js/main.e735d0a0.js",
+    "static/js/821.9f65ab44.chunk.js": "/loganreed.io/static/js/821.9f65ab44.chunk.js",
+    "static/js/643.2b31f8d7.chunk.js": "/loganreed.io/static/js/643.2b31f8d7.chunk.js",
+    "static/js/27.4936b13c.chunk.js": "/loganreed.io/static/js/27.4936b13c.chunk.js",
+    "static/media/map.svg": "/loganreed.io/static/media/map.0d7639e83802dec1e213.svg",
+    "static/media/map-light.png": "/loganreed.io/static/media/map-light.279fba7babaf7b19a260.png",
+    "static/media/dots-bg.svg": "/loganreed.io/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "static/media/dots-bg-light.svg": "/loganreed.io/static/media/dots-bg-light.337989bc13e6b95095a2.svg",
+    "static/media/slick.svg": "/loganreed.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/loganreed.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/loganreed.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/best-app-development-tool.md": "/loganreed.io/static/media/best-app-development-tool.ad3bbdcbdc7fcfbfbab6.md",
+    "static/media/things-to-know-about-startup-business.md": "/loganreed.io/static/media/things-to-know-about-startup-business.3df71b0b7f432368182f.md",
+    "static/media/common-misconceptions-about-payment.md": "/loganreed.io/static/media/common-misconceptions-about-payment.e5b2c5dcae10956af81d.md",
+    "static/media/slick.woff": "/loganreed.io/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/loganreed.io/index.html",
+    "main.01863082.css.map": "/loganreed.io/static/css/main.01863082.css.map",
+    "main.e735d0a0.js.map": "/loganreed.io/static/js/main.e735d0a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.921b7de6.css",
-    "static/js/main.a960daa6.js"
+    "static/css/main.01863082.css",
+    "static/js/main.e735d0a0.js"
   ]
 }
