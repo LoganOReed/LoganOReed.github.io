@@ -22,7 +22,7 @@ function HomepageDark() {
     setToggleMenu(!toggleMenu);
   };
 
-  document.addEventListener("click", function (e) {
+  document.addEventListener("click", function(e) {
     if (e.target.closest(".content")) {
       setToggleMenu(false);
     }
@@ -53,17 +53,8 @@ function HomepageDark() {
         <Element name="section-works">
           <Works />
         </Element>
-        <Element name="section-pricing">
-          <Pricing />
-        </Element>
         <Element name="section-testimoninal">
           <Testimonials />
-        </Element>
-        <Element name="section-brandlogos">
-          <BrandlogosDark />
-        </Element>
-        <Element name="section-blogs">
-          <Blogs />
         </Element>
         <Element name="section-contact">
           <Contact />
