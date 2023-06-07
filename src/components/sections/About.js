@@ -6,7 +6,7 @@ import Skill from "../elements/Skill";
 
   const aboutContent = {
     name: "Logan",
-    avatarImage: "/images/avatar-2.svg",
+    avatarImage: "/images/headshot2.jpeg",
     content:
       "I am Logan Reed, Data Scientist and Mathematician from Philadelphia. I have rich experience in scientific programming using Python, researching mathematical topics through computer science, and communicating to a broad audience.",
   };
@@ -67,7 +67,7 @@ import Skill from "../elements/Skill";
           <div className="row">
             <div className="col-md-3">
               <div className="text-center text-md-left">
-                <img src={aboutContent.avatarImage} alt={aboutContent.name} />
+                <img src={aboutContent.avatarImage} alt={aboutContent.name} className="rounded-circle" width="180" height="180" />
               </div>
               <div className="spacer d-md-none d-lg-none" data-height="30"></div>
             </div>
