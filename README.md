@@ -1,3 +1,11 @@
+TODO:
+1. Finish porting custom copy into working version.
+2. Include other domain (I think loganreed.me)
+
+Note:
+1. loganreed.io through github pages
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

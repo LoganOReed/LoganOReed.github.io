@@ -1,7 +1,7 @@
 {
   "name": "bolby",
   "version": "1.0.2",
-  "homepage": "http://loganreed.io",
+  "homepage": "loganreed.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",

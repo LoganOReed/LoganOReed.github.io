@@ -26,8 +26,8 @@ import Skill from "../elements/Skill";
     },
     {
       id: 3,
-      title: "Teaching",
-      percantage: 70,
+      title: "Visualization",
+      percantage: 75,
       progressColor: "#6C6CE5",
     },
   ];
@@ -47,7 +47,7 @@ import Skill from "../elements/Skill";
     },
     {
       id: 3,
-      title: "Satisfied Students",
+      title: "Satisfied Customers",
       count: 168,
       icon: "icon-people",
     },
