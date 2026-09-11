@@ -36,6 +36,33 @@ cv:
         degree: B.S.
         date: 2021
 
+    Publications:
+      - title: "A pipeline for testing drug mechanism of action and combination therapies: From microarray data to simulations via linear-in-flux-expressions: Testing four-drug combinations for tuberculosis treatment"
+        authors:
+          - Christopher Denaro
+          - Nathaniel J. Merrill
+          - Sean T. McQuade
+          - Logan Reed
+          - Karim Azer
+          - Benedetto Piccoli
+        journal: Mathematical Biosciences
+        date: 2023-06
+        doi: 10.1016/j.mbs.2023.108983
+        # extra keys read by the website template
+        publisher: Mathematical Biosciences
+        url: https://doi.org/10.1016/j.mbs.2023.108983
+        summary: "Volume 360, 108983."
+
+    Talks and Presentations:
+      - label: Oct. 24, 2026
+        details: "Near-Optimal Convergence of Widlund's Method and Numerical Exploration of Different Implementations. Annual Conference of the New York–New Jersey–Pennsylvania section of SIAM, Rutgers University (New Brunswick, NJ)."
+
+    Attended Workshops:
+      - label: May 4–8, 2026
+        details: Asynchronous Methods for Numerical Linear Algebra, ICERM, Brown University (Providence, RI).
+      - label: Feb. 2–6, 2026
+        details: Randomized Numerical Linear Algebra, ICERM, Brown University (Providence, RI).
+
     Experience:
       - company: Temple University
         position: Graduate Researcher
@@ -73,48 +100,21 @@ cv:
           - Contributed to the discretization and implementation of a metabolic pathway model.
           - Developed a PDE solver on a large hypergraph representing the metabolic pathway.
 
-    Publications:
-      - title: "A pipeline for testing drug mechanism of action and combination therapies: From microarray data to simulations via linear-in-flux-expressions: Testing four-drug combinations for tuberculosis treatment"
-        authors:
-          - Christopher Denaro
-          - Nathaniel J. Merrill
-          - Sean T. McQuade
-          - Logan Reed
-          - Karim Azer
-          - Benedetto Piccoli
-        journal: Mathematical Biosciences
-        date: 2023-06
-        doi: 10.1016/j.mbs.2023.108983
-        # extra keys read by the website template
-        publisher: Mathematical Biosciences
-        url: https://doi.org/10.1016/j.mbs.2023.108983
-        summary: "Volume 360, 108983."
-
-    Talks and Presentations:
-      - label: Oct. 24, 2026
-        details: "Near-Optimal Convergence of Widlund's Method and Numerical Exploration of Different Implementations. Annual Conference of the New York–New Jersey–Pennsylvania section of SIAM, Rutgers University (New Brunswick, NJ)."
-
-    Attended Workshops:
-      - label: May 4–8, 2026
-        details: Asynchronous Methods for Numerical Linear Algebra, ICERM, Brown University (Providence, RI).
-      - label: Feb. 2–6, 2026
-        details: Randomized Numerical Linear Algebra, ICERM, Brown University (Providence, RI).
-
-    Teaching:
-      - label: Fall 2026
-        details: Teaching Assistant, Numerical Analysis, Temple University.
+    Teaching Experience:
       - label: Spring 2026
         details: Instructor, Precalculus, Temple University.
-      - label: Fall 2025
-        details: Teaching Assistant, Numerical Analysis, Temple University.
       - label: Fall 2022
         details: Lecturer, College Algebra, Rutgers University.
+      - label: Fall 2021
+        details: Lecturer, College Algebra, Rutgers University.
+      - label: Fall 2026
+        details: Teaching Assistant, Numerical Analysis, Temple University.
+      - label: Fall 2025
+        details: Teaching Assistant, Numerical Analysis, Temple University.
       - label: Spring 2022
         details: Teaching Assistant, Calculus I, Rutgers University.
       - label: Spring 2022
         details: Mathematics Tutor, Math and Statistics Lab, Rutgers University.
-      - label: Fall 2021
-        details: Lecturer, College Algebra, Rutgers University.
       - label: Fall 2021
         details: Mathematics Tutor, Math and Statistics Lab, Rutgers University.
       - label: 2017–2020
@@ -126,7 +126,7 @@ cv:
       - label: 2025–Present
         details: Graduate Seminar Organizer, Department of Mathematics, Temple University.
 
-    Awards:
+    Honors and Awards:
       - name: Distinguished Thesis Award
         title: Distinguished Thesis Award
         date: 2023-05-11
