@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. student, Department of Mathematics, Temple University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  # image: prof_pic.jpg # drop a photo at assets/img/prof_pic.jpg and uncomment
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Mathematics</p>
+    <p>Temple University</p>
+    <p>Philadelphia, PA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student in the [Department of Mathematics at Temple University](https://www.math.temple.edu/), advised by Daniel Szyld. My research is in numerical linear algebra: Krylov subspace methods, matrix and tensor equations, and low-rank tensor computations. My current work establishes a near-optimal convergence bound for Widlund's method and analyzes its implementations in the exact and inexact settings.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before Temple, I earned an M.S. in Mathematical Sciences from Rutgers University–Camden, where my thesis with Siqi Fu developed numerical methods for a constrained shape optimization problem related to the Pólya–Szegő conjecture on polygonal domains, and a B.S. in Applied Mathematics from Texas State University.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I serve as president of the Temple University SIAM Student Chapter and organize the department's graduate seminar. I also teach: most recently as the instructor for Precalculus and as a teaching assistant for Numerical Analysis.

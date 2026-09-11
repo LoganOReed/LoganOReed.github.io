@@ -2,14 +2,25 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses I have taught, assisted, or tutored.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+#### Instructor
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- **Spring 2026** — Instructor, _Precalculus_, Temple University.
+- **Fall 2022** — Lecturer, _College Algebra_, Rutgers University.
+- **Fall 2021** — Lecturer, _College Algebra_, Rutgers University.
 
-{% include courses.liquid %}
+#### Teaching Assistant
+
+- **Fall 2026** — Teaching Assistant, _Numerical Analysis_, Temple University.
+- **Fall 2025** — Teaching Assistant, _Numerical Analysis_, Temple University.
+- **Spring 2022** — Teaching Assistant, _Calculus I_, Rutgers University.
+
+#### Tutor
+
+- **Spring 2022** — Mathematics Tutor, Math and Statistics Lab, Rutgers University.
+- **Fall 2021** — Mathematics Tutor, Math and Statistics Lab, Rutgers University.
+- **2017–2020** — Mathematics Tutor, Math CATs, Texas State University.
