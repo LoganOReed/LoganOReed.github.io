@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will give a talk, _Near-Optimal Convergence of Widlund's Method and Numerical Exploration of Different Implementations_, at the Annual Conference of the New York–New Jersey–Pennsylvania section of SIAM at Rutgers University on October 24, 2026.
+I will give a talk, _Near-Optimal Convergence of Widlund's Method and Numerical Exploration of Different Implementations_, at the [Annual Conference of the New York–New Jersey–Pennsylvania section of SIAM](https://siamnnp2026.sciencesconf.org/) at Rutgers University on October 24, 2026.
