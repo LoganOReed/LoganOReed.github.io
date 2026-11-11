@@ -54,6 +54,8 @@ cv:
         summary: "Volume 360, 108983."
 
     Talks and Presentations:
+      - label: Nov. 13, 2026
+        details: "Near-Optimal Convergence of Widlund's Method and Numerical Exploration of Different Implementations. Mid-Atlantic Numerical Analysis Day, Temple University (Philadelphia, PA)."
       - label: Oct. 24, 2026
         details: "Near-Optimal Convergence of Widlund's Method and Numerical Exploration of Different Implementations. Annual Conference of the New York–New Jersey–Pennsylvania section of SIAM, Rutgers University (New Brunswick, NJ)."
 
